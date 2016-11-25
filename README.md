@@ -6,7 +6,7 @@ Tools for less time being a Social Media Manager and more time on Reddit.
 
 Don't forget to set up a `virtualenv`!
 
-``` python
+``` bash
 $ pip install -r requirements.txt
 $ python gen.py
 ```
